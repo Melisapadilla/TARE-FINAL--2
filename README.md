@@ -1,5 +1,7 @@
 # TAREA FINAL-PARTE 2
 
+Resolución de los ejercicios con GeoDataFrame:
+
 PREGUNTA 5
 
 Se subió la data de indicadores de Perú y el mapa de Distritos del Perú. Hacemos un Merge con las columnas distrito y DISTRITO, convertimos todo a mayúscula y eliminamos los espacios en blanco antes o después del texto. Procedemos a hacer la limpieza, eliminando tildes, convirtiendo caracteres, combinando provincias y distritos para evitar los nombres repetidos. Buscamos la coincidencia entre datos y el porcentaje de similitud. Sustituimos y aplicamos los cambios, para luego tener una columna con provincia y distrito junto. Finalmente eliminamos las columnas innecesarias o las que no usaremos.
