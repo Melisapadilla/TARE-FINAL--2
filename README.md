@@ -10,3 +10,4 @@ PREGUNTA 6
 
 Creamos un histograma para visualizar la distribución de IDH2019. Usamos fisherjenks para dividir los datos en clases, departamento provincia y distrito. Con Rook se usa para ver los vecinos que comparten un borde. Con Queen se usa para ver los vecinos que comparten un borde o un vértice. Escogemos la provincia de índice 1831, vemos cuántos polígonos vecinos tiene y cuáles son. Finalmente se grafica los polígonos de la provincia de Lima con el polígono de índice 1831 con sus vecinos para los 3 casos, usando rook, usando queen y usando KNN.
 
+.
